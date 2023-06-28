@@ -17,5 +17,6 @@ public class InquiryReq {
     private String vaNumber;
     private String fullName;
     private String amount;
+    private Boolean status;
 
 }
