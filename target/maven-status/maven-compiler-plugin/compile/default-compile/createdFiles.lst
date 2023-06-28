@@ -1,3 +1,5 @@
+com/example/demo/service/CustomUserDetailsService.class
+com/example/demo/domain/BaseModel.class
 com/example/demo/dto/InquiryReq.class
 com/example/demo/exception/VirtualAccountNotfoundException.class
 com/example/demo/dto/Response$ResponseBuilder.class
@@ -6,6 +8,8 @@ com/example/demo/DemoApplication.class
 com/example/demo/dto/Response.class
 com/example/demo/config/SecurityConfig.class
 com/example/demo/service/CobaService.class
+com/example/demo/domain/User$UserBuilder.class
 com/example/demo/service/CobaServiceImpl.class
+com/example/demo/domain/User.class
 com/example/demo/controller/GlobalController.class
 com/example/demo/controller/CobaController.class

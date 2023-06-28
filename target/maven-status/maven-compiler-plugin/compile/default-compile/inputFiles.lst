@@ -1,9 +1,12 @@
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/config/SecurityConfig.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/exception/VirtualAccountNotfoundException.java
+/home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/service/CustomUserDetailsService.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/dto/Response.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/controller/GlobalController.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/service/CobaService.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/DemoApplication.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/dto/InquiryReq.java
+/home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/domain/User.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/controller/CobaController.java
+/home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/domain/BaseModel.java
 /home/galang/developments/SPRING-BOOT/demo/src/main/java/com/example/demo/service/CobaServiceImpl.java
