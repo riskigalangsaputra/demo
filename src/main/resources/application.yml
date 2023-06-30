@@ -1,0 +1,19 @@
+datasourceprimary:
+  jdbc-url: jdbc:mysql://localhost:3306/demodb?useSSL=false&serverTimezone=UTC
+  username: root
+  password: admin123
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+datasourcesecondary:
+  jdbc-url: jdbc:mysql://localhost:3306/demodb2?useSSL=false&serverTimezone=UTC
+  username: root
+  password: admin123
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+spring:
+  jpa:
+    properties:
+      hibernate:
+       ddl-auto: validate
+       format_sql: true
+      show-sql: false
