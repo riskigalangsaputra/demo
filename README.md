@@ -1,5 +1,3 @@
-# coba
-coba coba saja
+spring boot version : 2.7.12
 
-# compile
-mvnd clean package -DskipTests
+compile : mvn clean package -DskipTest
